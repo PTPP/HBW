@@ -1,2 +1,0 @@
-# HBW
-Hobweek Polska

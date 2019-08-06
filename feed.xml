@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Hobweek Polska</title>
+    <link href="https://hbw.psychopedagog.eu/feed.xml" rel="self" />
+    <link href="https://hbw.psychopedagog.eu" />
+    <updated>2019-08-06T21:57:14+02:00</updated>
+    <author>
+        <name>Polskie Towarzystwo Psychopedagogiczne</name>
+    </author>
+    <id>https://hbw.psychopedagog.eu</id>
+
+    <entry>
+        <title>Pierwszy wpis!</title>
+        <author>
+            <name>Polskie Towarzystwo Psychopedagogiczne</name>
+        </author>
+        <link href="https://hbw.psychopedagog.eu/pierwszy-wpis.html"/>
+        <id>https://hbw.psychopedagog.eu/pierwszy-wpis.html</id>
+
+        <updated>2019-08-06T21:49:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hbw.psychopedagog.eu/media/posts/1/man-641691_1920.jpg" alt="pierwszy wpis, człowiek siłacz" />
+                    Mam zaszczyt poinformować, iż otwieramy wspólnie nasz projekt o nazwie Hobweek Polska.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hbw.psychopedagog.eu/media/posts/1/man-641691_1920.jpg" alt="pierwszy wpis, człowiek siłacz" />
+                <p>Mam zaszczyt poinformować, iż otwieramy wspólnie nasz projekt o nazwie Hobweek Polska. Niezmiernie się cieszę, że możemy wspólnie z grupą redakcyjną rozwijać swoje pasje i zainteresowania związane z hobby i wolnym czasem. Z pewnością nasze artykuły będą pisane od serca.</p>
+<p>Możecie liczyć na wiele ciekawych informacji ze świata popkultury, tj. muzyki, seriali, filmów, książek. Pojawi się również kategoria zwiazana ze sportem, zdrowym żywieniem i urodą. Miłośnicy gier komputerowych i konsolowych znajdą również tutaj swój kącik. </p>
+<p>Czas pokaże! Do dzieła!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

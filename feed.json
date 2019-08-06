@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hobweek Polska",
+    "description": "",
+    "home_page_url": "https://hbw.psychopedagog.eu",
+    "feed_url": "https://hbw.psychopedagog.eu/feed.json",
+    "user_comment": "",
+    "icon": "https://hbw.psychopedagog.eu/media/website/HOBWEEK-POLSKA-LOGO-2b.png",
+    "author": {
+        "name": "Polskie Towarzystwo Psychopedagogiczne"
+    },
+    "items": [
+        {
+            "id": "https://hbw.psychopedagog.eu/pierwszy-wpis.html",
+            "url": "https://hbw.psychopedagog.eu/pierwszy-wpis.html",
+            "title": "Pierwszy wpis!",
+            "summary": "Mam zaszczyt poinformować, iż otwieramy wspólnie nasz projekt o nazwie Hobweek Polska.",
+            "content_html": "<p>Mam zaszczyt poinformować, iż otwieramy wspólnie nasz projekt o nazwie Hobweek Polska. Niezmiernie się cieszę, że możemy wspólnie z grupą redakcyjną rozwijać swoje pasje i zainteresowania związane z hobby i wolnym czasem. Z pewnością nasze artykuły będą pisane od serca.</p>\n<p>Możecie liczyć na wiele ciekawych informacji ze świata popkultury, tj. muzyki, seriali, filmów, książek. Pojawi się również kategoria zwiazana ze sportem, zdrowym żywieniem i urodą. Miłośnicy gier komputerowych i konsolowych znajdą również tutaj swój kącik. </p>\n<p>Czas pokaże! Do dzieła!</p>",
+            "image": "https://hbw.psychopedagog.eu/media/posts/1/man-641691_1920.jpg",
+            "author": {
+                "name": "Polskie Towarzystwo Psychopedagogiczne"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-06T21:49:03+02:00",
+            "date_modified": "2019-08-06T21:49:03+02:00"
+        }
+    ]
+}
